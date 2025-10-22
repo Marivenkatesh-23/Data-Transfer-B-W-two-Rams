@@ -47,7 +47,7 @@ This design demonstrates **memory interfacing**, **state-based control**, and **
 
 ---
 
-## 🧠 Learning Takeaways
+##  Learning Takeaways
 - FSM-based control for memory transfer  
 - Data width conversion between memories  
 - Dual-port RAM interfacing  
